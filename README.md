@@ -9,7 +9,7 @@ Features:
 - Very simple build
 - 5 different time zones
 - automatic daylight saving time adjustments
-- WiFi manager to change WiFi settings in browser (World_Clock_AP, 192.168.4.1)
+- WiFi manager to change WiFi settings in browser (WorldClock_AP, 192.168.4.1)
 - Easy settings for the 5 time zones in Settings.h
 
 Build:
