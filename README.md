@@ -22,8 +22,8 @@ Including <Timezone.h> for calculating the right timezone including global DST s
 
 Print the box yourself: (https://www.thingiverse.com/thing:4655531)
 
-[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock/blob/main/pics/WorldClock_Schematic.png)](https://github.com/3KUdelta/ESP8266-World-Clock)
+[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock-small/blob/main/pics/ESP8266_WorldClock_onedisplay.png)](https://github.com/3KUdelta/ESP8266-World-Clock-small)
 
-[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock/blob/main/pics/IMG_20201108_141833.jpg)](https://github.com/3KUdelta/ESP8266-World-Clock)
+[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock-small/blob/main/pics/IMG_20210310_103432.jpg)](https://github.com/3KUdelta/ESP8266-World-Clock-small)
 
-[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock/blob/main/pics/IMG_20201108_141814.jpg)](https://github.com/3KUdelta/ESP8266-World-Clock)
+[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock-small/blob/main/pics/IMG_20210310_103007.jpg)](https://github.com/3KUdelta/ESP8266-World-Clock-small)
