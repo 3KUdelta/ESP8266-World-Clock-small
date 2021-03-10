@@ -1,9 +1,15 @@
 # ESP8266-World-Clock-small
 Highly accurate world clock with automatic global daylight saving time settings with a 3.12" display.
 
-Author: Marc Staehli, initial upload Marc 2021
+Author: Marc Staehli, initial upload March 2021
 
-[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock/blob/main/pics/IMG_20201108_143037.jpg)](https://github.com/3KUdelta/ESP8266-World-Clock)
+[![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock-small/blob/main/pics/IMG_20210310_105127.jpg)](https://github.com/3KUdelta/ESP8266-World-Clock-small)
+
+Features:
+- 5 different time zones
+- automatic daylight saving time adjustments
+- WiFi manager to change WiFi settings in browser (World_Clock_AP, 192.168.4.1)
+- Easy 
 
 
 Build:
