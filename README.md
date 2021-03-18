@@ -20,7 +20,7 @@ Build:
 Settings.h includes all individal settings. 
 Including <Timezone.h> for calculating the right timezone including global DST settings (https://github.com/JChristensen/Timezone).
 
-Print the box yourself: (https://www.thingiverse.com/thing:4655531)
+Print the box yourself: (https://www.thingiverse.com/thing:4789713)
 
 [![ESP8266-World-Clock](https://github.com/3KUdelta/ESP8266-World-Clock-small/blob/main/pics/ESP8266_WorldClock_onedisplay.png)](https://github.com/3KUdelta/ESP8266-World-Clock-small)
 
